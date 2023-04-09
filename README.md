@@ -3,12 +3,17 @@ In diesem Repo werden die Unterlagen und Dateien zum USB-Gateway abgelegt.
 
 ![USB-Gateway-Platine in Steckdose](Bilder/usb_pcb_socket.jpg)
 ![USB-Gateway-Platine](Bilder/usb_pcb_standalone.jpg)
+![USB-Gateway-Case](Bilder/pcb_case_fusion360.PNG)
 
 Die Platine wurde mit Eagle entworfen und auf Basis des Schaltplans der Github-Page von OpenDTU (<https://github.com/tbnobody/OpenDTU>) erstellt.
 Mit der besonderen Form der Platine kann das Gateway direkt über ein USB-Netzteil versorgt werden und benötigt daher kein Kabel oder eine zusätzliche Befestigung.
 
 Wenn man die Platine fertigt gelötet hat und den ESP32 mit OpenDTU geflasht hat, müssen keine zusätzlichen Einstellungen bezüglich der GPIOs vorgenommen werden.
 Die Pin-Belegung entspricht der Standardbelegung von OpenDTU.
+
+**Schaltplan-Ausschnitt und Layout:**
+![USB-Gateway-Schaltplan](Bilder/pcb_schematic.PNG)
+![USB-Gateway-Layout](Bilder/pcb_layout_eagle.PNG)
 
 **Benötigte Komponenten:**
 - USB-Platine (siehe Dateien)
