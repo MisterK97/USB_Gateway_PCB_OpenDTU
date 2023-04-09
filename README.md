@@ -15,7 +15,7 @@ Die Pin-Belegung entspricht der Standardbelegung von OpenDTU.
 - ESP32 D1 MINI (<https://www.azdelivery.de/products/esp32-d1-mini>)
 - NRF24L01 (<https://www.azdelivery.de/products/3x-nrf24l01-mit-2-4-ghz>)
 
-Diese Repo hat nichts mit der OpenDTU-Repo (<https://github.com/tbnobody/OpenDTU>) zu tun und steht in keiner Absprache mit den Entwickler*innen.
+Diese Repo hat nichts mit der OpenDTU-Repo (<https://github.com/tbnobody/OpenDTU>) zu tun und steht in keiner Absprache mit den Entwickler*innen. Danke für die tolle Arbeit der Community! Ich hoffe meine kleine Platine hilft euch!
 
 Die Verwendung der gezeigten Platine bzw. des Schaltplanes erfolgt auf eigenes Risiko und ohne jegliche Gewährleistung!
 
