@@ -1,6 +1,6 @@
 # USB-Gateway-Platine für z.B. OpenDTU auf ESP32-Basis
 
-![Layout der USB-Gateway-Platine](Blog_Post_OpenDTU_DIY-Platine_raw.png)
+![Layout der USB-Gateway-Platine](Bilder/Blog_Post_OpenDTU_DIY-Platine_raw.png)
 
 In diesem Repo werden die Unterlagen und Dateien zum USB-Gateway abgelegt.
 
